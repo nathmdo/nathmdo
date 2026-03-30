@@ -70,4 +70,4 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
   
 </div>
 
-![Cobrinha Dark](https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake-dark.svg)
+![Cobrinha Dark](https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake.svg)
