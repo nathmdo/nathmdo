@@ -69,3 +69,5 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
   <a href="https://www.linkedin.com/in/nathalia-marcondes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Cobrinha Dark](https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake-dark.svg)
