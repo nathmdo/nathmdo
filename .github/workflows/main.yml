@@ -2,18 +2,21 @@ name: Gerar Cobrinha
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4   # versão atualizada
+        uses: actions/checkout@v4
 
       - name: Gerar animação
-        uses: Platane/snk@v3        # versão estável
+        uses: Platane/snk@v3
         with:
           github_user_name: nathmdo
           outputs: |
@@ -21,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publicar no GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3   # versão atualizada
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
