@@ -76,8 +76,9 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 ![Cobrinha](https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake.svg)
 
 
-<!--
+
 ![Cobrinha Dark](https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake.svg)-->
