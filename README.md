@@ -61,7 +61,40 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
           
   
   ##
- -->
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+-->
+
+<p align="left"> 
+  Data Analyst passionate about turning complex data into clear, actionable insights.
+</p>
+
+##
+
+<h3 align="left">🧠 Languages & Technologies</h3>
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,r,c,arduino,java,matlab" />
+</p>
+
+<h3 align="left">🗄️ Database & Data</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3 align="left">🛠️ Tools & Systems</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
+</p>
+  
+</p>
+
+
+<h3 align="left">💼  Social Media</h3>
+ 
 <div> 
   <a href="https://instagram.com/nath.mdo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -69,6 +102,8 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
   <a href="https://www.linkedin.com/in/nathalia-marcondes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+    
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathmdo/nathmdo/output/github-contribution-grid-snake-dark.svg">
